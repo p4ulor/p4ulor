@@ -25,4 +25,4 @@ Another quotte I base my work around is "What was hard to endure, is sweet to re
 ## Feel free to contact me or ask questions
 
 ## Peace
-<img src="imgs/matrix.jpg" width="197" height="327">
+<img src="imgs/matrix.jpg" width="327" height="197">
