@@ -13,16 +13,15 @@ I'm a very cool human being, srs.
 
 ## What motivates me in informatics and characteristics of my repos
 - It feels good to build and create things(specially useful ones). This aspect in and of itself is specially inspiring in this area
-- Information is power. And knowing how to to program computers is a very impactful and useful skill
+- Information is power. And knowing how to to code and build technology is a very impactful and useful skill
 - These repos also help me organize my work
 - I like to help others with the resources and info I share
 - I explain things with as many detail as reasonably possible. My biggest motto is "Most things, aren't hard, they're just not well explained".
-It's in my bio. After what I've personally been through, this motto is 100% true IMO. I want to ease the learning of concepts through easy explanations, examples and resources. 
-Another quotte I base my work around is "What was hard to endure, is sweet to recall". This keeps me going.
-- I'm also driven by some speeches in movies and other histories of success. [Example](https://www.youtube.com/watch?v=ebrvE9KpCik)
-
+It's in my bio. After what I've personally been through, this motto is 100% true IMO. I want to ease the learning of concepts through easy explanations, examples and resources for the people that find my repos 
 
 ## Feel free to contact me or ask questions
+
+## And feel free to notify me if I said something that is false, or have a program that doesnt work or that could be better designed in my repos
 
 ## Peace
 <img src="imgs/matrix.jpg" width="327" height="197">
