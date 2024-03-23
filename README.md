@@ -4,7 +4,7 @@ My name is Paulo, I'm from Portugal and I'm 24 years old at the time of this wri
 - I did a 
 Computer Science and Computer Engineering BSc course in [ISEL](https://www.isel.pt/en/curso/10514/plano-de-estudos)
 
-<div align="center">
+<div align="center" style="height: 100%;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4ulor&layout=compact&langs_count=20&theme=github_dark)
 </div>
